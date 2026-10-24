@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Raw NASA data (too large for GitHub)
+data/raw/
